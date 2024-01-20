@@ -66,14 +66,6 @@ Android studio 4.0 or above and a Network connection
 <img src="https://github.com/shubhamdamani/CampusConnect/blob/master/screenshots/Screenshot6.png" alt="Chat Support" height="400px">
 <p>
 
-## Developers
-
-* ### [Kunal Sevkani](https://github.com/kunalmnnit) 
-* ### [Harshit Agarwall](https://github.com/harshwall)
-* ### [Shubham Damani](https://github.com/shubhamdamani)
-* ### [Tanish Yadav](https://github.com/excelo0702)
-
-
 ## License
 
 This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md) file for details
